@@ -28,5 +28,6 @@ ul li{
 }
 
 .mission{
+    display: flex;
 }
 
