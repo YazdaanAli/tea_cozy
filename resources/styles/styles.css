@@ -1,0 +1,17 @@
+*{
+    background-color: black;
+    font-family: Helvetica;
+    font-size: 22px;
+    color: seashell;
+}
+
+header{
+    border-bottom: 1px solid seashell;
+    height: 69px;   
+    opacity: 0.9;
+}
+
+#logoimage{
+    padding-left: 10px;
+    height: 69px;
+}
